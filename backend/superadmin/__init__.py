@@ -1,0 +1,1 @@
+# Super Admin app for managing clients, demo requests, and pricing plans
