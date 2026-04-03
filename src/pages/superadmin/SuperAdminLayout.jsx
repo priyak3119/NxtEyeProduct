@@ -130,13 +130,13 @@ const SuperAdminLayout = () => {
             </button>
             
             <div className="flex items-center space-x-4">
-              <NotificationBell />
               <div className="flex items-center space-x-2">
                 <Shield className="h-6 w-6 text-indigo-600" />
                 <span className="text-lg font-semibold text-gray-800 hidden sm:block">
                   Super Admin Panel
                 </span>
               </div>
+              <NotificationBell />
             </div>
           </div>
         </header>
